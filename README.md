@@ -1,7 +1,7 @@
 
-# Linux Service Manager
+# Service Tweak
 
-A simple Bash script to manage system services like MySQL, Apache2, and Node.js. The script allows you to start or stop these services based on your input.
+A simple Bash script to manage system services like MySQL, Apache2, and Node.js. Based on your input, the script allows you to start or stop these services.
 
 ## Features
 
@@ -16,18 +16,18 @@ A simple Bash script to manage system services like MySQL, Apache2, and Node.js.
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/TharinduWijayarathna/Linux-ServiceManager.git
-cd linux-service-manager
+git clone https://github.com/TharinduWijayarathna/Service-Tweak.git
+cd Service-Tweak
 ```
 
 ### Make the Script Executable
 ```bash
-chmod +x manage_services.sh
+chmod +x service-tweak.sh
 ```
 
 ### Run the Script
 ```bash
-./manage_services.sh
+./service-tweak.sh
 ```
 
 ### Example Workflow
