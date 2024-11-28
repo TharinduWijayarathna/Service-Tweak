@@ -16,7 +16,7 @@ A simple Bash script to manage system services like MySQL, Apache2, and Node.js.
 
 ### Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/TharinduWijayarathna/Linux-ServiceManager.git
 cd linux-service-manager
 ```
 
@@ -48,7 +48,3 @@ chmod +x manage_services.sh
 ## Contributing
 
 Feel free to fork the repository and submit pull requests for improvements or additional features.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
